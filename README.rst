@@ -10,7 +10,9 @@ considered to be more practical and more related with real-world applications.
 Some good examples include recommender systems, clustering, graph mining,
 anomaly detection, and ensemble learning.
 
-Updated version of of <https://github.com/yzhao062/data-mining-conferences>
+New version of https://github.com/yzhao062/data-mining-conferences
+Lets see how long I keep this up;) Last update: 28.10.2022
+
 
 To facilitate KDD related research, we create this repository with:
 
@@ -22,7 +24,7 @@ To facilitate KDD related research, we create this repository with:
 
 **Table of Contents**\ :
 
-* `1. 2020-2021 Data Mining Conferences`_
+* `1. Data Mining Conferences`_
 * `2. Data Mining Conference Acceptance Rate`_
 * `3. Conference Ranking`_
 * `4. Tips for Doing Good DM Research & Get it Published!`_
@@ -38,19 +40,18 @@ To facilitate KDD related research, we create this repository with:
 =================================================================================================  =====================  ===============  ==================  =================================  =============================  ===========================================================================================
 Conference                                                                                         Submission Deadline    Notification     Conference Date     Location                           Acceptance Rate (2018)         Website
 =================================================================================================  =====================  ===============  ==================  =================================  =============================  ===========================================================================================
-IEEE International Conference on Big Data (**BigData**)                                            **Aug 26, 2020**       Oct 20, 2020     Dec 10-13, 2020     Virtual                            19.7%                          `Link <http://bigdataieee.org/BigData2020/>`_
-AAAI Conference on Artificial Intelligence (**AAAI**)                                              **Sep 01 (09), 2020**  Dec 01, 2020     Feb 02-09, 2021     Virtual                            20.6%                          `Link <https://aaai.org/Conferences/AAAI-21/>`_
-IEEE International Conference on Data Engineering (**ICDE**) [**Second Round**]                    **Oct 07 (14), 2020**  Dec 15, 2020     Apr 19-23, 2021     Chania, Crete, Greece              18%                            `Link <http://www.icde2021.gr/>`_
-SIAM International Conference on Data Mining (**SDM**)                                             **Sep 21, 2020**       Dec TBA, 2020    Mar 25-27, 2021     Alexandria, Virginia, USA          22.9%                          `Link <https://www.siam.org/conferences/cm/conference/sdm21>`_
-The Web Conference (**WWW**)                                                                       **Oct 12 (19), 2020**  Jan 15, 2021     Apr 19-23, 2021     Ljubljana                          15%                            `Link <https://www2021.thewebconf.org/>`_
-IEEE International Conference on Data Engineering (**ICDE**)                                       Oct 08 (15), 2019      Dec 14, 2019     Apr 20-24, 2020     Dallas, Texas, USA                 18%                            `Link <https://www.utdallas.edu/icde/index.html>`_
-Pacific-Asia Conference on Knowledge Discovery and Data Mining (**PAKDD**)                         Nov 18 (25), 2019      Jan 28, 2020     May 11-14, 2020     Singapore                          24.1%                          `Link <https://www.pakdd2020.org/>`_
-ACM SIGKDD International Conference on Knowledge discovery and data mining (**KDD**)               Feb 13, 2020           May 15, 2020     Aug 22-27, 2020     San Diego, California              17.8%                          `Link <https://www.kdd.org/kdd2020/>`_
-European Conference on Machine learning and knowledge discovery in databases (**ECML PKDD**)       Apr 02, 2020           Jun 04, 2020     Sep 14-18, 2020     Ghent, Belgium                     25%                            `Link <https://ecmlpkdd2020.net/>`_
-ACM International Conference on Information and Knowledge Management (**CIKM**)                    Apr 24 (1), 2020       Jul 03, 2020     Oct 19-23, 2020     Galway, Ireland                    17%                            `Link <https://cikm2020.org/>`_
-IEEE International Conference on Data Mining (**ICDM**)                                            Jun 12, 2020           Aug 20, 2020     Nov 17-20, 2020     Sorrento, Italy                    19.8%                          `Link <http://icdm2020.bigke.org/>`_
-ACM SIGMOD/PODS Conference (**SIGMOD**)                                                            Jul 09, 2019           Oct 03, 2019     Jun 14-19, 2020     Portland, Oregon, USA              18%                            `Link <https://sigmod2020.org>`_
-ACM International Conference on Web Search and Data Mining (**WSDM**)                              **Aug 16, 2020**       Oct 16, 2019     Mar 08-12, 2021     Jerusalem, Israe                   16.3%                          `Link <http://www.wsdm-conference.org/2021/>`_
+IEEE International Conference on Big Data (**BigData**)                                            Sep 03, 2022       Oct 25, 2022     Dec 17-20, 2022     Osaka, Japan                            19.7%                          `Link <http://bigdataieee.org/BigData2022/>`_
+AAAI Conference on Artificial Intelligence (**AAAI**)                                              Aug 08 (15), 2022  Nov 18, 2022     Feb 7-14, 2023     Washington, DC, USA                            20.6%                          `Link <https://aaai.org/Conferences/AAAI-23/>`_
+IEEE International Conference on Data Engineering (**ICDE**)                    Apr 25,Jul 08, Oct 08, 2022    Dec 08, 2022     Apr 03-07, 2023     Anaheim, California, USA              18%                            `Link <http://www.icde2023.ics.uci.edu/>`_
+SIAM International Conference on Data Mining (**SDM**)                                             Sep 30 (Oct 07), 2022       Dec TBA, 2022    Apr 27-29, 2023     Mineapolis, Minnesota, USA          22.9%                          `Link <https://www.siam.org/conferences/cm/conference/sdm23>`_
+The Web Conference (**WWW**)                                                                       Oct 06 (13), 2022  Jan 25, 2023     Apr 30- May 04, 2021     Austin, Texas, USA                          15%                            `Link <https://www2023.thewebconf.org/>`_
+Pacific-Asia Conference on Knowledge Discovery and Data Mining (**PAKDD**)                         **Nov 24, 2022**      Jan 24, 2023     May 25-28, 2023     Osaka, Japa +virtual                          24.1%                          `Link <https://www.pakdd2023.org/>`_
+ACM SIGKDD International Conference on Knowledge discovery and data mining (**KDD**)               Feb 10, 2022           May 18, 2022     Aug 14-18, 2022     Washington, DC, USA              17.8%                          `Link <https://www.kdd.org/kdd2022/>`_
+European Conference on Machine learning and knowledge discovery in databases (**ECML PKDD**)       **Apr TBA, 2023**           Jun TBA, 2023     Sep 18-22, 2023     Torino, Italy                     25%                            `Link <https://ecmlpkdd2023.net/>`_
+ACM International Conference on Information and Knowledge Management (**CIKM**)                    **May TBA, 2023**       Aug TBA, 2023     Oct TBA, 2023     Birmingham, UK                    17%                            `Link <https://cikm2023.github.io/>`_
+IEEE International Conference on Data Mining (**ICDM**)                                            Jun 10, 2022           Aug 31, 2022     Nov 28- Dec 01, 2022     Orlando, Florida, USA                    19.8%                          `Link <http://icdm2022.cse.usf.edu/>`_
+ACM SIGMOD/PODS Conference (**SIGMOD**)                                                            Apr,Jul,Oct 15, 2022           Feb 23, 2023     Jun 18-23, 2020     Seattle, Washington, USA              18%                            `Link <https://2023.sigmod.org>`_
+ACM International Conference on Web Search and Data Mining (**WSDM**)                              Aug 12, 2022**       Oct 21, 2022     Feb 27- Mar 03, 2021     Singapore                   16.3%                          `Link <http://www.wsdm-conference.org/2023/>`_
 =================================================================================================  =====================  ===============  ==================  =================================  =============================  ===========================================================================================
 
 
