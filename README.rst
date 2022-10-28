@@ -10,6 +10,8 @@ considered to be more practical and more related with real-world applications.
 Some good examples include recommender systems, clustering, graph mining,
 anomaly detection, and ensemble learning.
 
+Updated version of of <https://github.com/yzhao062/data-mining-conferences>
+
 To facilitate KDD related research, we create this repository with:
 
 * **Upcoming data mining (DM) conference** submission date, notification date, and etc.
